@@ -1,8 +1,6 @@
 ## Welcome to your new SaaS App! 🎉
 
 
-https://github.com/user-attachments/assets/3856276b-23e9-455e-a564-b5f26f4f0e98
-
 You've decided to build a SaaS app with the Open SaaS template. Great choice!
 
 This template is:
